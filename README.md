@@ -34,6 +34,6 @@ All question papers belong to the respective institute.
 
 ---
 
-## ✨ Stay Connected
+## Stay Connected
 
 Feel free to ⭐ star the repo if you find it helpful!  
