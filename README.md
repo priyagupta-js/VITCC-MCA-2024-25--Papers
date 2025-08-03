@@ -9,11 +9,6 @@ The papers are organized by:
 - **Subject Name**
 - **Question Paper PDFs**
 
-/
-├── Software Engineering/
-│ ├── SE CAT-1.pdf
-│ └── SE CAT-2.pdf
-
 
 ## Purpose
 
